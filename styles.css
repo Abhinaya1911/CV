@@ -1,0 +1,115 @@
+body{
+  margin: 0;
+  text-align: center;
+
+}
+h1{
+  color: #187498;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento",cursive;
+}
+h2{
+  color: #187498;
+  font-weight: normal;
+  margin-top: 0;
+  font-size: 2.5rem;
+  font-family: "Arima",cursive;
+  text-align: center;
+}
+h3{
+  color: #11999E;
+}
+a{
+  color: #11999E;
+}
+hr{
+  width: 5%;
+  border-color: gray;
+  border-style: dotted none none;
+  border-width: 5px;
+
+}
+.skill-row1{
+  width: 40%;
+  margin: auto;
+}
+.skill-row2{
+  width: 40%;
+  margin: 100px auto 100px auto;
+}
+.top-container{
+  background-color: #EAF9F5;
+  padding: 100px 100px 0 100px;
+  font-family: "Merriweather",serif;
+}
+.bottom_cloud{
+  position: absolute;
+  left: 350px;
+}
+.top_cloud{
+  position: absolute;
+  right: 400px;
+  top: 60px;
+}
+.pro
+{
+  text-decoration: underline;
+}
+.Abhi{
+  height: 200px;
+  width: 200px;
+  margin-top: 50px;
+}
+.sk1{
+  width: 25%;
+  float: left;
+}
+.sk2{
+  height: 200px;
+  width: 200px;
+  float: right;
+}
+.skills{
+  margin-top: 75px;
+  margin-bottom: 175px;
+}
+.profile{
+  margin-bottom: 75px;
+}
+.contact-me{
+  margin-top: 50px;
+}
+.bottom-container{
+  margin: 50px auto auto auto;
+  background-color: #66BFBF;
+}
+.footer-link{
+  color: #187498;
+  text-decoration: none;
+  font-size: 1.5rem;
+}
+.footer-link:hover{
+  color: #000B49;
+}
+.para{
+  color: #EAF6F6;
+}
+.btn {
+  background: #11cdd4;
+  background-image: linear-gradient(top, #11cdd4, #11999e);
+  background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+  border-radius: 8px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #30e3cb;
+  background-image: linear-gradient(top, #30e3cb, #2bc4ad);
+  background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+  text-decoration: none;
+}
